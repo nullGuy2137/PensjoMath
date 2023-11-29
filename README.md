@@ -19,11 +19,11 @@ Pliki:
 # jakapremia.cpp :
 Przyjmuje ilość sprzedarzy od danego pracownika, i zależnie od ilości sprzedazy taka będzie premia.
 Przelicznik to:
-sprzedarz < 10000 zł, premia = sprzedarz * 0.10;
-14999.99 zł > sprzedarz > 10000 zł, premia = sprzedarz * 0.12;
-17999.99 zł > sprzedarz > 15000 zł, premia = sprzedarz * 0.14;
-21999.99 zł > sprzedarz > 18000 zł, premia = sprzedarz * 0.16;
-sprzedarz > 22000 zł, premia = sprzedarz * 0.18;
+- sprzedarz < 10000 zł, premia = sprzedarz * 0.10;
+- 14999.99 zł > sprzedarz > 10000 zł, premia = sprzedarz * 0.12;
+- 17999.99 zł > sprzedarz > 15000 zł, premia = sprzedarz * 0.14;
+- 21999.99 zł > sprzedarz > 18000 zł, premia = sprzedarz * 0.16;
+- sprzedarz > 22000 zł, premia = sprzedarz * 0.18;
 
 # liczplace.cpp :
 
